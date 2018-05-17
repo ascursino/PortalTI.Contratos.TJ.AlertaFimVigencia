@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="b26ab227-f014-4d9c-a0f9-14e923f4633b" solutionId="b26ab227-f014-4d9c-a0f9-14e923f4633b" resetWebServer="false" sharePointProductVersion="15.0" name="PortalTI.Contratos.TJ.AlertaFimVigencia" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <projectOutputAssembly location="PortalTI.Contratos.TJ.AlertaFimVigencia.dll" deploymentTarget="GlobalAssemblyCache" />
+  </assemblies>
+  <features>
+    <featureReference itemId="fd51c7a2-c76d-4ff7-b233-7b47fe75a558" />
+  </features>
+</package>
